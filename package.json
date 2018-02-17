@@ -1,0 +1,11 @@
+{
+  "name": "response-utilities",
+  "version": "1.0.0",
+  "description": "Simplifies the sending of responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toukir Ahmed Shuva",
+  "license": "ISC"
+}
